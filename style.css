@@ -1,0 +1,31 @@
+body {
+    opacity: 0.83;
+    background: linear-gradient(to right, crimson 0%, pink 100%);
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: cursive;
+}
+
+.img {
+    height: 400px;
+    width: 400px;
+    border: 5px solid #000;
+}
+
+.img:hover {
+    transform: scale(0.9);
+}
+
+#social {
+    background:BlueViolet;
+}
+
+.red {
+    color: white;
+    text-shadow: none;
+}
